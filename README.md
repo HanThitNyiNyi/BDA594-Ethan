@@ -4,5 +4,7 @@
 
 [Link to BDA 594 class here](https://sdsu.instructure.com/courses/141078)
 
+## What is Big Data to me? 
+
 My definition of big data, is data on a large scale that is derived from human behaviour, collected and processed via software in order to uncover new insights. 
 
